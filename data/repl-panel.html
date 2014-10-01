@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="./repl-panel.css"rel="stylesheet"></link>
+  </head>
+  <body>
+      <div>
+        <pre class="output" id="response"></pre>
+      </div>
+      <div id="input">
+        <textarea name="request" id="request" rows="5" cols="50"></textarea>
+        <pre  class="output" id="last-request"></pre>
+        <div  class="output" id="json-error"></div>
+      </div>
+  </body>
+  <script src="./repl-panel.js"></script>
+</html>
