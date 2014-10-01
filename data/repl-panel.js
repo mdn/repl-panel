@@ -1,4 +1,4 @@
-window.addEventListener("message", event => {
+window.addEventListener("message", function(event) {
   window.port = event.ports[0];
   window.port.onmessage = receive;
 });
