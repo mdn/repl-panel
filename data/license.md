@@ -1,0 +1,1 @@
+The icon file "plane_64.png" was created by http://handdrawngoods.com/ and is used under the Creative Commons Attribution 3.0 Unported license (CC BY 3.0): http://creativecommons.org/licenses/by/3.0/.
