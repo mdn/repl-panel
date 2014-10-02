@@ -13,3 +13,4 @@ or:
       "type": "listTabs"
     }
 
+To learn more about how this add-on works see the tutorial at: [https://developer.mozilla.org/en-US/docs/Tools/Adding_a_panel_to_the_toolbox](https://developer.mozilla.org/en-US/docs/Tools/Adding_a_panel_to_the_toolbox).
