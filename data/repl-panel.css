@@ -1,24 +1,11 @@
-#input {
+#request {
   position: fixed;
-  width: 50%;
+  width: 40%;
 }
 
 #response {
   float: right;
   width: 50%;
   color: blue;
-}
-
-.output {
   font-family: monospace;
-}
-
-#last-request {
-  color: blue;
-  padding-top: 1em;
-}
-
-#json-error {
-  color: red;
-  padding-top: 1em;
 }
